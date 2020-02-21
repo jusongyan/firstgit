@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/asm-5.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/classmate-1.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/cxf-core-3.1.11.jar"/>
+	<classpathentry kind="lib" path="lib/cxf-rt-bindings-soap-3.1.11.jar"/>
+	<classpathentry kind="lib" path="lib/cxf-rt-bindings-xml-3.1.11.jar"/>
+	<classpathentry kind="lib" path="lib/cxf-rt-databinding-jaxb-3.1.11.jar"/>
+	<classpathentry kind="lib" path="lib/cxf-rt-frontend-jaxws-3.1.11.jar"/>
+	<classpathentry kind="lib" path="lib/cxf-rt-frontend-simple-3.1.11.jar"/>
+	<classpathentry kind="lib" path="lib/cxf-rt-transports-http-3.1.11.jar"/>
+	<classpathentry kind="lib" path="lib/cxf-rt-transports-http-jetty-3.1.11.jar"/>
+	<classpathentry kind="lib" path="lib/cxf-rt-ws-addr-3.1.11.jar"/>
+	<classpathentry kind="lib" path="lib/cxf-rt-ws-policy-3.1.11.jar"/>
+	<classpathentry kind="lib" path="lib/cxf-rt-wsdl-3.1.11.jar"/>
+	<classpathentry kind="lib" path="lib/fastjson-1.2.9.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate-validator-5.3.5.Final.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-annotations-2.8.0.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-core-2.8.8.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-databind-2.8.8.jar"/>
+	<classpathentry kind="lib" path="lib/jboss-logging-3.3.0.Final.jar"/>
+	<classpathentry kind="lib" path="lib/jcl-over-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="lib/jul-to-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-api-2.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-core-2.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-over-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="lib/logback-classic-1.1.11.jar"/>
+	<classpathentry kind="lib" path="lib/logback-core-1.1.11.jar"/>
+	<classpathentry kind="lib" path="lib/neethi-3.0.3.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.7.22.jar"/>
+	<classpathentry kind="lib" path="lib/snakeyaml-1.17.jar"/>
+	<classpathentry kind="lib" path="lib/spring-aop-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-beans-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-boot-1.5.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-boot-autoconfigure-1.5.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-boot-starter-1.5.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-boot-starter-logging-1.5.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-boot-starter-security-1.5.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-boot-starter-tomcat-1.5.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-boot-starter-web-1.5.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-context-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-core-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-expression-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-security-config-4.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-security-core-4.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-security-web-4.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-web-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-webmvc-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/stax2-api-3.1.4.jar"/>
+	<classpathentry kind="lib" path="lib/tomcat-embed-core-8.5.15.jar"/>
+	<classpathentry kind="lib" path="lib/tomcat-embed-el-8.5.15.jar"/>
+	<classpathentry kind="lib" path="lib/tomcat-embed-websocket-8.5.15.jar"/>
+	<classpathentry kind="lib" path="lib/validation-api-1.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="lib/woodstox-core-asl-4.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/wsdl4j-1.6.3.jar"/>
+	<classpathentry kind="lib" path="lib/xmlschema-core-2.2.1.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
